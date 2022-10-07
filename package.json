@@ -1,0 +1,15 @@
+{
+  "name": "test",
+  "private": true,
+  "scripts": {
+    "prod": "NODE_ENV=production vite build"
+  },
+  "dependencies": {
+    "@types/video.js": "^7.3.48",
+    "@vitejs/plugin-react": "^2.1.0",
+    "rollup-plugin-visualizer": "^5.8.1",
+    "typescript": "^4.8.4",
+    "video.js": "^7.20.3",
+    "vite": "^3.1.3"
+  }
+}

@@ -1,0 +1,1 @@
+export const OnlyFromWithChild = (p) => 'only from with child' + typeof p;
